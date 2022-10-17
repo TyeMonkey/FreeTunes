@@ -23,3 +23,4 @@ you freely surf the web. You can also x out the message saying that Chrome is be
 - *Make sure to keep powershell open in order for Chrome to work*
 - **After chrome closes, all data will be erased and you will have to reinstall extensions and re sign in to any websites**
 - ***IF ANY ERRORS ARISE DURING INSTALLATION, THIS WILL NOT WORK***
+- If you have any issues, feel free to post your issue in the `issues` tab and I will try to help you resolve it.
