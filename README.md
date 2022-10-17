@@ -18,6 +18,6 @@ you freely surf the web. You can also x out the message saying that Chrome is be
 
 ### Important
 
-*Make sure to keep powershell open in order for Chrome to work*
-**After chrome closes, all data will be erased and you will have to reinstall extensions and resignin to any websites**
-***IF ANY ERRORS ARISE DURING INSTALLATION, THIS WILL NOT WORK***
+- *Make sure to keep powershell open in order for Chrome to work*
+- **After chrome closes, all data will be erased and you will have to reinstall extensions and resignin to any websites**
+- ***IF ANY ERRORS ARISE DURING INSTALLATION, THIS WILL NOT WORK***
